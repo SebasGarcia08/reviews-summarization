@@ -5,6 +5,10 @@
 ## Add custom entries below here.
 ##
 models/
+datasets/SQuAD_train-v2.0.json
+datasets/SQuAD_dev-v2.0.json
+datasets/SQuAD_train-v2.0.csv
+datasets/SQuAD_dev-v2.0.csv
 dst-env/
 .cache/v/cache/lastfailed
 tests/.cache/v/cache/lastfailed
