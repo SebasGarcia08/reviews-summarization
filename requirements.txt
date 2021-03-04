@@ -9,3 +9,5 @@ ipython
 jupyterlab
 notebook
 xlrd
+openpyxl
+selenium
