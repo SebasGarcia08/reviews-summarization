@@ -1,0 +1,733 @@
+https://www.tripadvisor.com/Restaurant_Review-g60763-d15170724-Reviews-Noel_s_Pizza-New_York_City_New_York.html
+ERROR:__main__:Could find maximum page. This page may only have one page of reviews
+ERROR:__main__:Message: 
+
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d1973314-Reviews-West_Side_Steakhouse-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 64 pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d19298588-Reviews-Baker_s_Pizza-New_York_City_New_York.html
+ERROR:__main__:Could find maximum page. This page may only have one page of reviews
+ERROR:__main__:Message: 
+
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: 
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d19298588-Reviews-Baker_s_Pizza-New_York_City_New_York.html
+ERROR:__main__:Could find maximum page. This page may only have one page of reviews
+ERROR:__main__:Message: 
+
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: 
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d5101606-Reviews-Pee_Dee_Steak_House-New_York_City_New_York.html
+ERROR:__main__:Could find maximum page. This page may only have one page of reviews
+ERROR:__main__:Message: 
+
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d425435-Reviews-Abitino_s_Pizzeria-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 4 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d2409563-Reviews-NY_Pizza_Suprema-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 93 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: element click intercepted: Element <span class="taLnk ulBlueLinks" onclick="widgetEvCall('handlers.clickExpand',event,this);">...</span> is not clickable at point (286, 7). Other element would receive the click: <div class="_15lz5z-W" data-anchor="REVIEWS" data-automation="REVIEWS">...</div>
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d1072874-Reviews-Numero_28_Pizzeria-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 64 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: 
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d492818-Reviews-John_s_of_Bleecker_Street-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 149 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: 
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d4244827-Reviews-Mariella_Pizza-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 2 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d1450822-Reviews-Keste_Pizza_Vino-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 73 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: 
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d5012906-Reviews-Lunetta_Pizza-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 4 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d802686-Reviews-Hard_Rock_Cafe-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 453 pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d1450822-Reviews-Keste_Pizza_Vino-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 73 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: 
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d5617483-Reviews-Casa_Barilla-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 52 pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d18954197-Reviews-Manero_s_Pizza-New_York_City_New_York.html
+ERROR:__main__:Could find maximum page. This page may only have one page of reviews
+ERROR:__main__:Message: 
+
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d3158813-Reviews-Ribalta_Pizza-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 33 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d2009679-Reviews-Rubirosa-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 93 pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d7617787-Reviews-K_Rico_Steakhouse-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 250 pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d12015308-Reviews-Royal_35_Steakhouse-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 34 pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d779894-Reviews-Bravo_Pizza-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 4 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d18954197-Reviews-Manero_s_Pizza-New_York_City_New_York.html
+ERROR:__main__:Could find maximum page. This page may only have one page of reviews
+ERROR:__main__:Message: 
+
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d425330-Reviews-Keens_Steakhouse-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 474 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: element not interactable: element has zero size
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d478965-Reviews-Gallagher_s_Steak_House-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 297 pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d1459433-Reviews-A_Slice_of_New_York-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 13 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d1459433-Reviews-A_Slice_of_New_York-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 13 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d1459433-Reviews-A_Slice_of_New_York-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 13 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d655719-Reviews-Benjamin_Steakhouse-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 173 pages
+https://www.tripadvisor.com/Search?q=BENJAMIN%20STEAK%20HOUSE&searchSessionId=A575848B6A85896119E17A9AA93D400A1614554640813ssid&searchNearby=false&geo=60763&sid=53BC2B5D109F420EADD7BFB76507E6711614554661646&blockRedirect=true
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: 
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d1459433-Reviews-A_Slice_of_New_York-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 13 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d19335210-Reviews-Abitino_s_Pizzeria-New_York_City_New_York.html
+ERROR:__main__:Could find maximum page. This page may only have one page of reviews
+ERROR:__main__:Message: 
+
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: 
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d19335210-Reviews-Abitino_s_Pizzeria-New_York_City_New_York.html
+ERROR:__main__:Could find maximum page. This page may only have one page of reviews
+ERROR:__main__:Message: 
+
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: 
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d19335210-Reviews-Abitino_s_Pizzeria-New_York_City_New_York.html
+ERROR:__main__:Could find maximum page. This page may only have one page of reviews
+ERROR:__main__:Message: 
+
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: 
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d19335210-Reviews-Abitino_s_Pizzeria-New_York_City_New_York.html
+ERROR:__main__:Could find maximum page. This page may only have one page of reviews
+ERROR:__main__:Message: 
+
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: 
+
+https://www.tripadvisor.com/Search?q=BENJAMIN%20STEAK%20HOUSE&searchSessionId=A575848B6A85896119E17A9AA93D400A1614554640813ssid&searchNearby=false&geo=60763&sid=53BC2B5D109F420EADD7BFB76507E6711614554661646&blockRedirect=true
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: 
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d967818-Reviews-Cafe_Viva_Gourmet_Pizza-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 3 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d14029780-Reviews-Papa_John_s_Pizza-New_York_City_New_York.html
+ERROR:__main__:Could find maximum page. This page may only have one page of reviews
+ERROR:__main__:Message: 
+
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d6652779-Reviews-Casa_Pizza_Restaurant-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 2 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Search?q=SAN%20MATTEO%20PIZZA%20ESPRESSO%20BAR&searchSessionId=EF0149E607766AEEEF608CB3680384631614555528422ssid&searchNearby=false&geo=60763&sid=53BC2B5D109F420EADD7BFB76507E6711614555545213&blockRedirect=true
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: 
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d967818-Reviews-Cafe_Viva_Gourmet_Pizza-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 3 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d14029780-Reviews-Papa_John_s_Pizza-New_York_City_New_York.html
+ERROR:__main__:Could find maximum page. This page may only have one page of reviews
+ERROR:__main__:Message: 
+
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d967818-Reviews-Cafe_Viva_Gourmet_Pizza-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 3 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Search?q=SAN%20MATTEO%20PIZZA%20ESPRESSO%20BAR&searchSessionId=EF0149E607766AEEEF608CB3680384631614555528422ssid&searchNearby=false&geo=60763&sid=53BC2B5D109F420EADD7BFB76507E6711614555545213&blockRedirect=true
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: 
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d967818-Reviews-Cafe_Viva_Gourmet_Pizza-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 3 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d967818-Reviews-Cafe_Viva_Gourmet_Pizza-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 3 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d6652779-Reviews-Casa_Pizza_Restaurant-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 2 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d967818-Reviews-Cafe_Viva_Gourmet_Pizza-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 3 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d15183718-Reviews-Bobby_Vans_Steakhouse-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 3 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d19335210-Reviews-Abitino_s_Pizzeria-New_York_City_New_York.html
+ERROR:__main__:Could find maximum page. This page may only have one page of reviews
+ERROR:__main__:Message: 
+
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: 
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d19335210-Reviews-Abitino_s_Pizzeria-New_York_City_New_York.html
+ERROR:__main__:Could find maximum page. This page may only have one page of reviews
+ERROR:__main__:Message: 
+
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: 
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d457147-Reviews-Sal_and_Carmine_Pizza-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 7 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d477513-Reviews-Ruth_s_Chris_Steak_House-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 116 pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d457147-Reviews-Sal_and_Carmine_Pizza-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 7 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d12236950-Reviews-Wholesome_Garden_Pizza-New_York_City_New_York.html
+ERROR:__main__:Could find maximum page. This page may only have one page of reviews
+ERROR:__main__:Message: 
+
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d17990667-Reviews-Bodega_Pizza-New_York_City_New_York.html
+ERROR:__main__:Could find maximum page. This page may only have one page of reviews
+ERROR:__main__:Message: 
+
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d19273824-Reviews-Bardolino_Pizza_2-New_York_City_New_York.html
+ERROR:__main__:Could find maximum page. This page may only have one page of reviews
+ERROR:__main__:Message: 
+
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: 
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d12236950-Reviews-Wholesome_Garden_Pizza-New_York_City_New_York.html
+ERROR:__main__:Could find maximum page. This page may only have one page of reviews
+ERROR:__main__:Message: 
+
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d3722392-Reviews-Rocky_s_Pizza_14th_St-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 4 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: 
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d12236950-Reviews-Wholesome_Garden_Pizza-New_York_City_New_York.html
+ERROR:__main__:Could find maximum page. This page may only have one page of reviews
+ERROR:__main__:Message: 
+
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d17990667-Reviews-Bodega_Pizza-New_York_City_New_York.html
+ERROR:__main__:Could find maximum page. This page may only have one page of reviews
+ERROR:__main__:Message: 
+
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d15651043-Reviews-Papa_John_s_Pizza-New_York_City_New_York.html
+ERROR:__main__:Could find maximum page. This page may only have one page of reviews
+ERROR:__main__:Message: 
+
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d17990667-Reviews-Bodega_Pizza-New_York_City_New_York.html
+ERROR:__main__:Could find maximum page. This page may only have one page of reviews
+ERROR:__main__:Message: 
+
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d15651043-Reviews-Papa_John_s_Pizza-New_York_City_New_York.html
+ERROR:__main__:Could find maximum page. This page may only have one page of reviews
+ERROR:__main__:Message: 
+
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d3722392-Reviews-Rocky_s_Pizza_14th_St-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 4 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: 
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d15651043-Reviews-Papa_John_s_Pizza-New_York_City_New_York.html
+ERROR:__main__:Could find maximum page. This page may only have one page of reviews
+ERROR:__main__:Message: 
+
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d15183718-Reviews-Bobby_Vans_Steakhouse-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 3 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d10430437-Reviews-Pizza_Plus-New_York_City_New_York.html
+ERROR:__main__:Could find maximum page. This page may only have one page of reviews
+ERROR:__main__:Message: 
+
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: 
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d10430437-Reviews-Pizza_Plus-New_York_City_New_York.html
+ERROR:__main__:Could find maximum page. This page may only have one page of reviews
+ERROR:__main__:Message: 
+
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: 
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d7216435-Reviews-Gina_la_Fornarina-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 3 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: 
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d7216435-Reviews-Gina_la_Fornarina-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 3 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: 
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d15183718-Reviews-Bobby_Vans_Steakhouse-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 3 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d10430437-Reviews-Pizza_Plus-New_York_City_New_York.html
+ERROR:__main__:Could find maximum page. This page may only have one page of reviews
+ERROR:__main__:Message: 
+
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: 
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d7216435-Reviews-Gina_la_Fornarina-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 3 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: 
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d15183718-Reviews-Bobby_Vans_Steakhouse-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 3 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d4039253-Reviews-Gino_s_Pizzeria_Restaurant-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 2 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d3792166-Reviews-Dough_Boys_Pizza-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 2 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d459679-Reviews-Cafe_Amore_Pizzeria_Ristorante-New_York_City_New_York.html
+ERROR:__main__:Could find maximum page. This page may only have one page of reviews
+ERROR:__main__:Message: 
+
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d3792166-Reviews-Dough_Boys_Pizza-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 2 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d459679-Reviews-Cafe_Amore_Pizzeria_Ristorante-New_York_City_New_York.html
+ERROR:__main__:Could find maximum page. This page may only have one page of reviews
+ERROR:__main__:Message: 
+
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d3792166-Reviews-Dough_Boys_Pizza-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 2 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d425788-Reviews-Rosario_s_Pizzeria-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 7 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d425788-Reviews-Rosario_s_Pizzeria-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 7 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d10299551-Reviews-PN_Wood_Fired_Pizza-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 7 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d1419008-Reviews-Sofia_Wine_Bar_and_Cafe-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 10 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d1419008-Reviews-Sofia_Wine_Bar_and_Cafe-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 10 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d10299551-Reviews-PN_Wood_Fired_Pizza-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 7 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d14785146-Reviews-Emmy_Squared_East_Village-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 2 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d15173020-Reviews-Sliced_by_Harlem_Pizza_Co-New_York_City_New_York.html
+ERROR:__main__:Could find maximum page. This page may only have one page of reviews
+ERROR:__main__:Message: 
+
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d15173020-Reviews-Sliced_by_Harlem_Pizza_Co-New_York_City_New_York.html
+ERROR:__main__:Could find maximum page. This page may only have one page of reviews
+ERROR:__main__:Message: 
+
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d4730529-Reviews-Papa_John_s_Pizza-New_York_City_New_York.html
+ERROR:__main__:Could find maximum page. This page may only have one page of reviews
+ERROR:__main__:Message: 
+
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d14060754-Reviews-Papa_John_s_Pizza-New_York_City_New_York.html
+ERROR:__main__:Could find maximum page. This page may only have one page of reviews
+ERROR:__main__:Message: 
+
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d11798975-Reviews-Benjamin_Steakhouse_Prime-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 21 pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d14785146-Reviews-Emmy_Squared_East_Village-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 2 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d14785146-Reviews-Emmy_Squared_East_Village-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 2 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d4730529-Reviews-Papa_John_s_Pizza-New_York_City_New_York.html
+ERROR:__main__:Could find maximum page. This page may only have one page of reviews
+ERROR:__main__:Message: 
+
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d14785146-Reviews-Emmy_Squared_East_Village-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 2 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d4730529-Reviews-Papa_John_s_Pizza-New_York_City_New_York.html
+ERROR:__main__:Could find maximum page. This page may only have one page of reviews
+ERROR:__main__:Message: 
+
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d11798975-Reviews-Benjamin_Steakhouse_Prime-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 21 pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d15651043-Reviews-Papa_John_s_Pizza-New_York_City_New_York.html
+ERROR:__main__:Could find maximum page. This page may only have one page of reviews
+ERROR:__main__:Message: 
+
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d15173020-Reviews-Sliced_by_Harlem_Pizza_Co-New_York_City_New_York.html
+ERROR:__main__:Could find maximum page. This page may only have one page of reviews
+ERROR:__main__:Message: 
+
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d11984969-Reviews-Cassiano_s_Pizza-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 2 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d2200990-Reviews-2_Bros_Pizza-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 54 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: element click intercepted: Element <span class="taLnk ulBlueLinks" onclick="widgetEvCall('handlers.clickExpand',event,this);">...</span> is not clickable at point (261, 7). Other element would receive the click: <a class="XIJ2_uUh _3YCuzlWP" data-tab-name="..." data-tab-active="true">Reviews</a>
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d11984969-Reviews-Cassiano_s_Pizza-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 2 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d2200990-Reviews-2_Bros_Pizza-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 54 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d11984969-Reviews-Cassiano_s_Pizza-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 2 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d4846994-Reviews-Salvo_s-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 4 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d6652779-Reviews-Casa_Pizza_Restaurant-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 2 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d4846994-Reviews-Salvo_s-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 4 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d478025-Reviews-Patsy_s_Pizza_74th_Street-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 28 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d4846994-Reviews-Salvo_s-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 4 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d2562411-Reviews-10th_Ave_Pizza-New_York_City_New_York.html
+ERROR:__main__:Could find maximum page. This page may only have one page of reviews
+ERROR:__main__:Message: 
+
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d2397371-Reviews-Uncle_Mario_s-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 34 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d4846994-Reviews-Salvo_s-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 4 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d2397371-Reviews-Uncle_Mario_s-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 34 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d3736845-Reviews-La_Bellezza-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 5 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d478025-Reviews-Patsy_s_Pizza_74th_Street-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 28 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d4846994-Reviews-Salvo_s-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 4 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d6652779-Reviews-Casa_Pizza_Restaurant-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 2 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d3736845-Reviews-La_Bellezza-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 5 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d2562411-Reviews-10th_Ave_Pizza-New_York_City_New_York.html
+ERROR:__main__:Could find maximum page. This page may only have one page of reviews
+ERROR:__main__:Message: 
+
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d478025-Reviews-Patsy_s_Pizza_74th_Street-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 28 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d2397371-Reviews-Uncle_Mario_s-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 34 pages
