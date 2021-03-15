@@ -1,0 +1,185 @@
+https://www.tripadvisor.com/Restaurant_Review-g60763-d779482-Reviews-Luzzo_s-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 23 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d424422-Reviews-Il_Cortile_Restaurant-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 70 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d445197-Reviews-Gradisca-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 12 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d599003-Reviews-Cacio_e_Pepe-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 15 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: 
+
+https://www.tripadvisor.com/Restaurant_Review-g48127-d18825582-Reviews-Patrizia_s-Maspeth_Queens_New_York.html
+ERROR:__main__:Could find maximum page. This page may only have one page of reviews
+ERROR:__main__:Message: 
+
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d8424752-Reviews-Bono_Trattoria-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 5 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d2086556-Reviews-Sofia_s-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 36 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d423264-Reviews-Palma-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 38 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d17433839-Reviews-Memoria-New_York_City_New_York.html
+ERROR:__main__:Could find maximum page. This page may only have one page of reviews
+ERROR:__main__:Message: 
+
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d479364-Reviews-Basta_Pasta-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 23 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: 
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d1557580-Reviews-Trattoria_Casa_di_Isacco-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 23 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: element click intercepted: Element <span class="taLnk ulBlueLinks" onclick="widgetEvCall('handlers.clickCollapse',event,this);">...</span> is not clickable at point (188, 592). Other element would receive the click: <div id="taplc_hotels_loading_box_rr_resp_0" class="ppr_rup ppr_priv_hotels_loading_box" data-placement-name="hotels_loading_box:rr_resp" style="display: block;">...</div>
+  (Session info: headless chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d3962352-Reviews-Nica_Trattoria-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 5 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d423883-Reviews-Petaluma-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 10 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d7751468-Reviews-La_Pizza-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 8 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: element click intercepted: Element <span class="taLnk ulBlueLinks" onclick="widgetEvCall('handlers.clickExpand',event,this);">...</span> is not clickable at point (218, 598). Other element would receive the click: <p class="partial_entry">...</p>
+  (Session info: headless chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d7392512-Reviews-Amata-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 6 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d7370236-Reviews-Gelso_Grand-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 49 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d534450-Reviews-Via_Italia-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 21 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: element click intercepted: Element <span class="taLnk ulBlueLinks" onclick="widgetEvCall('handlers.clickCollapse',event,this);">...</span> is not clickable at point (188, 592). Other element would receive the click: <div id="taplc_hotels_loading_box_rr_resp_0" class="ppr_rup ppr_priv_hotels_loading_box" data-placement-name="hotels_loading_box:rr_resp" style="display: block;">...</div>
+  (Session info: headless chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d457896-Reviews-Supper_Restaurant-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 23 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: 
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d13393942-Reviews-Laboratorio329-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 3 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d423797-Reviews-Scalinatella_Restaurant-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 24 pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d12492884-Reviews-Fiaschetteria_Pistoia-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 4 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d14358488-Reviews-Joe_and_Pats_Pizzeria-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 3 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d459250-Reviews-Le_Zie-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 15 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d459109-Reviews-Via_Quadronno-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 25 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: element click intercepted: Element <span class="taLnk ulBlueLinks" onclick="widgetEvCall('handlers.clickCollapse',event,this);">...</span> is not clickable at point (189, 593). Other element would receive the click: <div id="taplc_hotels_loading_box_rr_resp_0" class="ppr_rup ppr_priv_hotels_loading_box" data-placement-name="hotels_loading_box:rr_resp" style="display: block;">...</div>
+  (Session info: headless chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d424586-Reviews-Il_Gattopardo-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 56 pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d459365-Reviews-V_T_Pizzeria-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 13 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d423331-Reviews-Emilio_s_Ballato-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 29 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: stale element reference: element is not attached to the page document
+  (Session info: headless chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d459072-Reviews-Cara_Mia-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 45 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: element click intercepted: Element <span class="taLnk ulBlueLinks" onclick="widgetEvCall('handlers.clickCollapse',event,this);">...</span> is not clickable at point (188, 593). Other element would receive the click: <div id="taplc_hotels_loading_box_rr_resp_0" class="ppr_rup ppr_priv_hotels_loading_box" data-placement-name="hotels_loading_box:rr_resp" style="display: block;">...</div>
+  (Session info: headless chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d543319-Reviews-Posto-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 10 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: element click intercepted: Element <span class="taLnk ulBlueLinks" onclick="widgetEvCall('handlers.clickCollapse',event,this);">...</span> is not clickable at point (188, 592). Other element would receive the click: <div id="taplc_hotels_loading_box_rr_resp_0" class="ppr_rup ppr_priv_hotels_loading_box" data-placement-name="hotels_loading_box:rr_resp" style="display: block;">...</div>
+  (Session info: headless chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d479315-Reviews-Caffe_Buon_Gusto-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 8 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d2361016-Reviews-Frankies_Spuntino_570-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 14 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d4561725-Reviews-Original_Vincent_s-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 8 pages
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
