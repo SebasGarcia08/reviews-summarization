@@ -1,0 +1,259 @@
+https://www.tripadvisor.com/Restaurant_Review-g60763-d4091023-Reviews-Joe_s_Pizza-New_York_City_New_York.html
+2021-03-16 00:16:17 INFO     Found a maximum of 37 pages
+2021-03-16 00:19:49 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d533381-Reviews-Grotto_Pizzeria_and_Restaurant-New_York_City_New_York.html
+2021-03-16 00:19:56 INFO     Found a maximum of 6 pages
+2021-03-16 00:20:31 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d3734891-Reviews-Rosella_s_Pizzeria-New_York_City_New_York.html
+2021-03-16 00:20:39 INFO     Found a maximum of 4 pages
+2021-03-16 00:21:00 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d4659212-Reviews-P_M_Pizza_Restaurant-New_York_City_New_York.html
+2021-03-16 00:21:16 ERROR    Could not find maximum page. This page may only have one page of reviews
+2021-03-16 00:21:16 ERROR    Message: 
+
+2021-03-16 00:21:24 ERROR    Could not find next button even without beeing in the last page
+2021-03-16 00:21:24 ERROR    Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+2021-03-16 00:21:31 ERROR    Could not find next button even without beeing in the last page
+2021-03-16 00:21:31 ERROR    Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+2021-03-16 00:21:39 ERROR    Could not find next button even without beeing in the last page
+2021-03-16 00:21:39 ERROR    Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+2021-03-16 00:21:46 ERROR    Could not find next button even without beeing in the last page
+2021-03-16 00:21:46 ERROR    Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+2021-03-16 00:21:53 ERROR    Could not find next button even without beeing in the last page
+2021-03-16 00:21:53 ERROR    Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+2021-03-16 00:22:01 ERROR    Could not find next button even without beeing in the last page
+2021-03-16 00:22:01 ERROR    Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+2021-03-16 00:22:08 ERROR    Could not find next button even without beeing in the last page
+2021-03-16 00:22:08 ERROR    Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+2021-03-16 00:22:16 ERROR    Could not find next button even without beeing in the last page
+2021-03-16 00:22:16 ERROR    Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+2021-03-16 00:22:23 ERROR    Could not find next button even without beeing in the last page
+2021-03-16 00:22:23 ERROR    Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+2021-03-16 00:22:25 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d19667398-Reviews-Hell_s_Kitchen_Pizza-New_York_City_New_York.html
+2021-03-16 00:22:47 ERROR    Could not find maximum page. This page may only have one page of reviews
+2021-03-16 00:22:47 ERROR    Message: 
+
+2021-03-16 00:23:07 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 00:23:14 ERROR    Could not find next button even without beeing in the last page
+2021-03-16 00:23:14 ERROR    Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+2021-03-16 00:23:35 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 00:23:42 ERROR    Could not find next button even without beeing in the last page
+2021-03-16 00:23:42 ERROR    Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+2021-03-16 00:24:03 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 00:24:10 ERROR    Could not find next button even without beeing in the last page
+2021-03-16 00:24:10 ERROR    Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+2021-03-16 00:24:30 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 00:24:37 ERROR    Could not find next button even without beeing in the last page
+2021-03-16 00:24:37 ERROR    Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+2021-03-16 00:24:58 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 00:25:05 ERROR    Could not find next button even without beeing in the last page
+2021-03-16 00:25:05 ERROR    Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+2021-03-16 00:25:26 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 00:25:33 ERROR    Could not find next button even without beeing in the last page
+2021-03-16 00:25:33 ERROR    Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+2021-03-16 00:25:53 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 00:26:01 ERROR    Could not find next button even without beeing in the last page
+2021-03-16 00:26:01 ERROR    Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+2021-03-16 00:26:21 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 00:26:28 ERROR    Could not find next button even without beeing in the last page
+2021-03-16 00:26:28 ERROR    Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+2021-03-16 00:26:49 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 00:26:56 ERROR    Could not find next button even without beeing in the last page
+2021-03-16 00:26:56 ERROR    Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+2021-03-16 00:27:17 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 00:27:19 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d21044649-Reviews-Eddie_s_NY_Deli_Pizza-New_York_City_New_York.html
+2021-03-16 00:27:35 ERROR    Could not find maximum page. This page may only have one page of reviews
+2021-03-16 00:27:35 ERROR    Message: 
+
+2021-03-16 00:27:56 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 00:28:03 ERROR    Could not find next button even without beeing in the last page
+2021-03-16 00:28:03 ERROR    Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+2021-03-16 00:28:23 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 00:28:30 ERROR    Could not find next button even without beeing in the last page
+2021-03-16 00:28:30 ERROR    Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+2021-03-16 00:28:51 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 00:28:58 ERROR    Could not find next button even without beeing in the last page
+2021-03-16 00:28:58 ERROR    Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+2021-03-16 00:29:19 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 00:29:26 ERROR    Could not find next button even without beeing in the last page
+2021-03-16 00:29:26 ERROR    Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+2021-03-16 00:29:47 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 00:29:54 ERROR    Could not find next button even without beeing in the last page
+2021-03-16 00:29:54 ERROR    Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+2021-03-16 00:30:14 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 00:30:21 ERROR    Could not find next button even without beeing in the last page
+2021-03-16 00:30:21 ERROR    Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+2021-03-16 00:30:42 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 00:30:49 ERROR    Could not find next button even without beeing in the last page
+2021-03-16 00:30:49 ERROR    Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+2021-03-16 00:31:10 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 00:31:17 ERROR    Could not find next button even without beeing in the last page
+2021-03-16 00:31:17 ERROR    Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+2021-03-16 00:31:38 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 00:31:45 ERROR    Could not find next button even without beeing in the last page
+2021-03-16 00:31:45 ERROR    Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+2021-03-16 00:32:05 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 00:32:07 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d15272988-Reviews-Oath_Pizza-New_York_City_New_York.html
+2021-03-16 00:32:28 ERROR    Could not find maximum page. This page may only have one page of reviews
+2021-03-16 00:32:28 ERROR    Message: 
+
+2021-03-16 00:32:36 ERROR    Could not find next button even without beeing in the last page
+2021-03-16 00:32:36 ERROR    Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+2021-03-16 00:32:43 ERROR    Could not find next button even without beeing in the last page
+2021-03-16 00:32:43 ERROR    Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+2021-03-16 00:32:51 ERROR    Could not find next button even without beeing in the last page
+2021-03-16 00:32:51 ERROR    Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+2021-03-16 00:32:59 ERROR    Could not find next button even without beeing in the last page
+2021-03-16 00:32:59 ERROR    Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+2021-03-16 00:33:06 ERROR    Could not find next button even without beeing in the last page
+2021-03-16 00:33:06 ERROR    Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+2021-03-16 00:33:14 ERROR    Could not find next button even without beeing in the last page
+2021-03-16 00:33:14 ERROR    Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+2021-03-16 00:33:22 ERROR    Could not find next button even without beeing in the last page
+2021-03-16 00:33:22 ERROR    Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+2021-03-16 00:33:30 ERROR    Could not find next button even without beeing in the last page
+2021-03-16 00:33:30 ERROR    Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+2021-03-16 00:33:37 ERROR    Could not find next button even without beeing in the last page
+2021-03-16 00:33:37 ERROR    Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+2021-03-16 00:33:40 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d7184372-Reviews-IPizzaNY-New_York_City_New_York.html
+2021-03-16 00:33:49 INFO     Found a maximum of 2 pages
+2021-03-16 00:33:58 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d6001501-Reviews-Empire_Steak_House-New_York_City_New_York.html
+2021-03-16 00:34:13 INFO     Found a maximum of 66 pages
+2021-03-16 00:40:45 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d4810308-Reviews-Il_Forno-New_York_City_New_York.html
+2021-03-16 00:40:57 INFO     Found a maximum of 40 pages
+2021-03-16 00:44:59 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d1192486-Reviews-Little_Italy_Gourmet_Pizza-New_York_City_New_York.html
+2021-03-16 00:45:13 INFO     Found a maximum of 30 pages
+2021-03-16 00:48:14 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d5494562-Reviews-Famous_Famiglia-New_York_City_New_York.html
+2021-03-16 00:48:22 INFO     Found a maximum of 10 pages
+2021-03-16 00:49:23 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d18338003-Reviews-Peperino_NYC_Pizza-New_York_City_New_York.html
+2021-03-16 00:49:42 ERROR    Could not find maximum page. This page may only have one page of reviews
+2021-03-16 00:49:42 ERROR    Message: 
+
+2021-03-16 00:50:03 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 00:50:10 ERROR    Could not find next button even without beeing in the last page
+2021-03-16 00:50:10 ERROR    Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+2021-03-16 00:50:31 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 00:50:38 ERROR    Could not find next button even without beeing in the last page
+2021-03-16 00:50:38 ERROR    Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+2021-03-16 00:50:59 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 00:51:06 ERROR    Could not find next button even without beeing in the last page
+2021-03-16 00:51:06 ERROR    Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+2021-03-16 00:51:27 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 00:51:34 ERROR    Could not find next button even without beeing in the last page
+2021-03-16 00:51:34 ERROR    Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+2021-03-16 00:51:55 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 00:52:02 ERROR    Could not find next button even without beeing in the last page
+2021-03-16 00:52:02 ERROR    Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+2021-03-16 00:52:23 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 00:52:30 ERROR    Could not find next button even without beeing in the last page
+2021-03-16 00:52:30 ERROR    Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+2021-03-16 00:52:50 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 00:52:58 ERROR    Could not find next button even without beeing in the last page
+2021-03-16 00:52:58 ERROR    Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+2021-03-16 00:53:18 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 00:53:26 ERROR    Could not find next button even without beeing in the last page
+2021-03-16 00:53:26 ERROR    Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+2021-03-16 00:53:46 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 00:53:54 ERROR    Could not find next button even without beeing in the last page
+2021-03-16 00:53:54 ERROR    Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+2021-03-16 00:54:14 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 00:54:17 INFO     Reached end of all pages

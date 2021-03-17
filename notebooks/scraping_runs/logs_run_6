@@ -1,0 +1,559 @@
+https://www.tripadvisor.com/Restaurant_Review-g60763-d424558-Reviews-Azalea_Ristorante-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 72 pages
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d459628-Reviews-Delmonico_s-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 85 pages
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d19270049-Reviews-Flavors_of_Italy_Bistro-New_York_City_New_York.html
+ERROR:__main__:Could not find maximum page. This page may only have one page of reviews
+ERROR:__main__:Message: 
+
+ERROR:__main__:Could not find net button even without beeing in the last page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+ERROR:__main__:Could not find net button even without beeing in the last page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+ERROR:__main__:Could not find net button even without beeing in the last page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+ERROR:__main__:Could not find net button even without beeing in the last page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+ERROR:__main__:Could not find net button even without beeing in the last page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+ERROR:__main__:Could not find net button even without beeing in the last page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+ERROR:__main__:Could not find net button even without beeing in the last page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+ERROR:__main__:Could not find net button even without beeing in the last page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+ERROR:__main__:Could not find net button even without beeing in the last page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d477310-Reviews-Trattoria_Dell_Arte-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 154 pages
+INFO:__main__:Could not expand reviews
+INFO:__main__:Could not expand reviews
+INFO:__main__:Could not expand reviews
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d12141953-Reviews-Misirizzi_Italian_Restaurant-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 3 pages
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d14952452-Reviews-Attraversa_TriBeCa-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 2 pages
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d1887411-Reviews-LAVO_Italian_Restaurant-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 63 pages
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d16644800-Reviews-10_Corso_Como_Restaurant_Cafe-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 3 pages
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g29837-d12320720-Reviews-Via_Trenta_Osteria_and_Wine_Bar-Astoria_Queens_New_York.html
+INFO:__main__:Found a maximum of 2 pages
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d423865-Reviews-Parma_Restaurant-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 5 pages
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d1898220-Reviews-Mercato-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 70 pages
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d7375683-Reviews-Senza_Gluten-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 40 pages
+INFO:__main__:Could not expand reviews
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d10067266-Reviews-Fumo_Pizza_Bar_Pasta-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 5 pages
+INFO:__main__:Could not expand reviews
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d1982908-Reviews-Coppola_s-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 15 pages
+INFO:__main__:Could not expand reviews
+INFO:__main__:Could not expand reviews
+INFO:__main__:Could not expand reviews
+INFO:__main__:Could not expand reviews
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d13319747-Reviews-Serafina_West_105th_Street-New_York_City_New_York.html
+ERROR:__main__:Could not find maximum page. This page may only have one page of reviews
+ERROR:__main__:Message: 
+
+ERROR:__main__:Could not find net button even without beeing in the last page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+ERROR:__main__:Could not find net button even without beeing in the last page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+ERROR:__main__:Could not find net button even without beeing in the last page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+ERROR:__main__:Could not find net button even without beeing in the last page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+ERROR:__main__:Could not find net button even without beeing in the last page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+ERROR:__main__:Could not find net button even without beeing in the last page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+ERROR:__main__:Could not find net button even without beeing in the last page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+ERROR:__main__:Could not find net button even without beeing in the last page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+ERROR:__main__:Could not find net button even without beeing in the last page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d3140758-Reviews-Bettolona-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 7 pages
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60827-d459598-Reviews-Ciccio_Pizza-Brooklyn_New_York.html
+INFO:__main__:Found a maximum of 2 pages
+INFO:__main__:Could not expand reviews
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d2005229-Reviews-Ai_Fiori-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 86 pages
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d17611091-Reviews-Arte_Cafe-New_York_City_New_York.html
+ERROR:__main__:Could not find maximum page. This page may only have one page of reviews
+ERROR:__main__:Message: 
+
+ERROR:__main__:Could not find net button even without beeing in the last page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+ERROR:__main__:Could not find net button even without beeing in the last page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+ERROR:__main__:Could not find net button even without beeing in the last page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+ERROR:__main__:Could not find net button even without beeing in the last page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+ERROR:__main__:Could not find net button even without beeing in the last page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+ERROR:__main__:Could not find net button even without beeing in the last page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+ERROR:__main__:Could not find net button even without beeing in the last page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+ERROR:__main__:Could not find net button even without beeing in the last page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+ERROR:__main__:Could not find net button even without beeing in the last page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d2057396-Reviews-Lido-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 20 pages
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d1006704-Reviews-Serafina_Broadway-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 97 pages
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d479313-Reviews-Caffe_Napoli-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 55 pages
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d3958626-Reviews-Carbone-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 38 pages
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g48682-d4951724-Reviews-Paesano_s_Pizzeria-Staten_Island_New_York.html
+ERROR:__main__:Could not find maximum page. This page may only have one page of reviews
+ERROR:__main__:Message: 
+
+ERROR:__main__:Could not find net button even without beeing in the last page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+ERROR:__main__:Could not find net button even without beeing in the last page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+ERROR:__main__:Could not find net button even without beeing in the last page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+ERROR:__main__:Could not find net button even without beeing in the last page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+ERROR:__main__:Could not find net button even without beeing in the last page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+ERROR:__main__:Could not find net button even without beeing in the last page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+ERROR:__main__:Could not find net button even without beeing in the last page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+ERROR:__main__:Could not find net button even without beeing in the last page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+ERROR:__main__:Could not find net button even without beeing in the last page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d2165918-Reviews-Patzeria_Family_Friends-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 285 pages
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d423400-Reviews-Restivo_Ristorante-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 10 pages
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d478277-Reviews-Nino_s_Restaurant-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 16 pages
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d424306-Reviews-Buona_Notte-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 15 pages
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d527499-Reviews-Caffe_Palermo-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 41 pages
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d478621-Reviews-Lattanzi_Ristorante-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 73 pages
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d478026-Reviews-Patsy_s_Italian_Restaurant-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 452 pages
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d5643291-Reviews-Fabio_Cucina_Italiana-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 21 pages
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d491116-Reviews-Bella_Blu-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 24 pages
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d424487-Reviews-Don_Giovanni-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 60 pages
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d423866-Reviews-Due_Restaurant-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 10 pages
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d424429-Reviews-Becco-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 375 pages
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g46531-d3205883-Reviews-Max_s_Restaurant-Jersey_City_New_Jersey.html
+INFO:__main__:Found a maximum of 6 pages
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d1048640-Reviews-Locanda_Verde-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 92 pages
+INFO:__main__:Could not expand reviews
+INFO:__main__:Could not expand reviews
+INFO:__main__:Could not expand reviews
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d426214-Reviews-Bottino-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 15 pages
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d543689-Reviews-Tony_s_Di_Napoli_Midtown-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 458 pages
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d848335-Reviews-Uva-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 42 pages
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d425554-Reviews-Cafe_Fiorello-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 117 pages
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d1998586-Reviews-La_Cava-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 7 pages
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d8463826-Reviews-Studio_Cafe_at_The_Whitney_Museum_of_American_Art-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 12 pages
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d423310-Reviews-Volare-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 9 pages
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d477311-Reviews-Trattoria_Trecolori-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 243 pages
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d8545251-Reviews-La_Pecora_Bianca-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 27 pages
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d2708960-Reviews-Bottega_Restaurant-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 10 pages
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d598053-Reviews-Del_Posto-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 138 pages
+INFO:__main__:Could not expand reviews
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d4038824-Reviews-Valbella_Midtown-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 7 pages
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d617221-Reviews-Olive_Garden-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 200 pages
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d7790161-Reviews-Caffe_Dei_Fiori-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 6 pages
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d524733-Reviews-Sant_Ambroeus-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 33 pages
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d18003539-Reviews-Aunt_Jake_s_NYC-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 20 pages
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d12729494-Reviews-Bigoi_Venezia-New_York_City_New_York.html
+ERROR:__main__:Could not find maximum page. This page may only have one page of reviews
+ERROR:__main__:Message: 
+
+ERROR:__main__:Could not find net button even without beeing in the last page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+ERROR:__main__:Could not find net button even without beeing in the last page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+ERROR:__main__:Could not find net button even without beeing in the last page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+ERROR:__main__:Could not find net button even without beeing in the last page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+ERROR:__main__:Could not find net button even without beeing in the last page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+ERROR:__main__:Could not find net button even without beeing in the last page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+ERROR:__main__:Could not find net button even without beeing in the last page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+ERROR:__main__:Could not find net button even without beeing in the last page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+ERROR:__main__:Could not find net button even without beeing in the last page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d13089515-Reviews-L_angolo_Ristorante-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 3 pages
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d425338-Reviews-Bistango_Restaurant-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 44 pages
+INFO:__main__:Could not expand reviews
+INFO:__main__:Could not expand reviews
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d11956262-Reviews-Saluggi_s-New_York_City_New_York.html
+ERROR:__main__:Could not find maximum page. This page may only have one page of reviews
+ERROR:__main__:Message: 
+
+ERROR:__main__:Could not find net button even without beeing in the last page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+ERROR:__main__:Could not find net button even without beeing in the last page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+ERROR:__main__:Could not find net button even without beeing in the last page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+ERROR:__main__:Could not find net button even without beeing in the last page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+ERROR:__main__:Could not find net button even without beeing in the last page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+ERROR:__main__:Could not find net button even without beeing in the last page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+ERROR:__main__:Could not find net button even without beeing in the last page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+ERROR:__main__:Could not find net button even without beeing in the last page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+ERROR:__main__:Could not find net button even without beeing in the last page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d479241-Reviews-The_Cottage-New_York_City_New_York.html
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: 
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d3831096-Reviews-Cafetal_Social_Club-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 4 pages
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d10059835-Reviews-B_Squared-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 10 pages
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d425398-Reviews-Cipriani_Dolci-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 26 pages
+INFO:__main__:Could not expand reviews
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d424493-Reviews-Osteria_al_Doge-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 110 pages
+INFO:__main__:Could not expand reviews
+ERROR:__main__:Could not find net button even without beeing in the last page
+ERROR:__main__:Message: element click intercepted: Element <a data-page-number="5" data-offset="40" class="nav next ui_button primary" onclick="widgetEvCall('handlers.paginate', event, this); widgetEvCall('handlers.trackClick', event, this, 'pagination_next', '5');" href="/Restaurant_Review-g60763-d424493-Reviews-or40-Osteria_al_Doge-New_York_City_New_York.html">...</a> is not clickable at point (702, 582). Other element would receive the click: <div id="taplc_hotels_loading_box_rr_resp_0" class="ppr_rup ppr_priv_hotels_loading_box" data-placement-name="hotels_loading_box:rr_resp" style="display: block;">...</div>
+  (Session info: headless chrome=89.0.4389.82)
+
+INFO:__main__:Could not expand reviews
+ERROR:__main__:Could not load this page
+ERROR:__main__:Message: stale element reference: element is not attached to the page document
+  (Session info: headless chrome=89.0.4389.82)
+
+https://www.tripadvisor.com/Restaurant_Review-g60763-d8144717-Reviews-Ora_Di_Pasta-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 14 pages
+INFO:__main__:Could not expand reviews
+INFO:__main__:Could not expand reviews
+INFO:__main__:Could not expand reviews
+INFO:__main__:Could not expand reviews
+INFO:__main__:Could not expand reviews
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d423839-Reviews-Canaletto-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 7 pages
+INFO:__main__:Could not expand reviews
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60827-d3513617-Reviews-Best_Pizza-Brooklyn_New_York.html
+INFO:__main__:Found a maximum of 12 pages
+INFO:__main__:Could not expand reviews
+ERROR:__main__:Could not find net button even without beeing in the last page
+ERROR:__main__:Message: element click intercepted: Element <a data-page-number="5" data-offset="40" class="nav next ui_button primary" onclick="widgetEvCall('handlers.paginate', event, this); widgetEvCall('handlers.trackClick', event, this, 'pagination_next', '5');" href="/Restaurant_Review-g60827-d3513617-Reviews-or40-Best_Pizza-Brooklyn_New_York.html">...</a> is not clickable at point (701, 582). Other element would receive the click: <div id="taplc_hotels_loading_box_rr_resp_0" class="ppr_rup ppr_priv_hotels_loading_box" data-placement-name="hotels_loading_box:rr_resp" style="display: block;">...</div>
+  (Session info: headless chrome=89.0.4389.82)
+
+INFO:__main__:Could not expand reviews
+INFO:__main__:Could not expand reviews
+INFO:__main__:Could not expand reviews
+INFO:__main__:Could not expand reviews
+INFO:__main__:Could not expand reviews
+INFO:__main__:Could not expand reviews
+INFO:__main__:Could not expand reviews
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d481024-Reviews-Manganaro_s_Hero_Boy-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 5 pages
+INFO:__main__:Could not expand reviews
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d1984162-Reviews-Lex_Restaurant-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 6 pages
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d2647568-Reviews-Casa_Lever-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 25 pages
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d457944-Reviews-Fresco_by_Scotto-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 46 pages
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d20516483-Reviews-Tavolino-New_York_City_New_York.html
+ERROR:__main__:Could not find maximum page. This page may only have one page of reviews
+ERROR:__main__:Message: 
+
+ERROR:__main__:Could not find net button even without beeing in the last page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+ERROR:__main__:Could not find net button even without beeing in the last page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+ERROR:__main__:Could not find net button even without beeing in the last page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+ERROR:__main__:Could not find net button even without beeing in the last page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+ERROR:__main__:Could not find net button even without beeing in the last page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+ERROR:__main__:Could not find net button even without beeing in the last page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+ERROR:__main__:Could not find net button even without beeing in the last page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+ERROR:__main__:Could not find net button even without beeing in the last page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+ERROR:__main__:Could not find net button even without beeing in the last page
+ERROR:__main__:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class="nav next ui_button primary"]"}
+  (Session info: headless chrome=89.0.4389.82)
+
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d3220489-Reviews-La_Nonna_Restaurant-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 29 pages
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d12394564-Reviews-Tableside_Italian_Cook_Shoppe-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 4 pages
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d2199591-Reviews-Il_Posto_Accanto-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 8 pages
+INFO:__main__:Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d808894-Reviews-Tree_Bistro-New_York_City_New_York.html
+INFO:__main__:Found a maximum of 30 pages
+INFO:__main__:Could not expand reviews
+INFO:__main__:Could not expand reviews
+INFO:__main__:Could not expand reviews
+INFO:__main__:Could not expand reviews
+INFO:__main__:Could not expand reviews
+INFO:__main__:Could not expand reviews
+INFO:__main__:Could not expand reviews
+INFO:__main__:Could not expand reviews
+INFO:__main__:Could not expand reviews
+INFO:__main__:Could not expand reviews
+INFO:__main__:Could not expand reviews
+INFO:__main__:Could not expand reviews
+INFO:__main__:Could not expand reviews
+INFO:__main__:Could not expand reviews
+INFO:__main__:Could not expand reviews
+INFO:__main__:Could not expand reviews
+INFO:__main__:Could not expand reviews
+INFO:__main__:Could not expand reviews
+INFO:__main__:Could not expand reviews
+INFO:__main__:Could not expand reviews
+INFO:__main__:Could not expand reviews
+INFO:__main__:Could not expand reviews
+INFO:__main__:Reached end of all pages

@@ -1,0 +1,456 @@
+https://www.tripadvisor.com/Restaurant_Review-g60763-d1563785-Reviews-Motorino-New_York_City_New_York.html
+2021-03-16 09:27:40 INFO     Found a maximum of 24 pages
+2021-03-16 09:29:54 INFO     Reached end of all pages
+https://www.tripadvisor.com/Attraction_Review-g60763-d5838240-Reviews-Crocodile_Lounge-New_York_City_New_York.html
+2021-03-16 09:30:13 ERROR    Could not find maximum page. This page may only have one page of reviews
+2021-03-16 09:30:13 ERROR    Message: 
+
+2021-03-16 09:30:34 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 09:30:36 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d18830614-Reviews-Little_Roma_Pizza-New_York_City_New_York.html
+2021-03-16 09:30:57 ERROR    Could not find maximum page. This page may only have one page of reviews
+2021-03-16 09:30:57 ERROR    Message: 
+
+2021-03-16 09:30:59 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d17713080-Reviews-Justino_s_Pizzeria-New_York_City_New_York.html
+2021-03-16 09:31:17 ERROR    Could not find maximum page. This page may only have one page of reviews
+2021-03-16 09:31:17 ERROR    Message: 
+
+2021-03-16 09:31:38 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 09:31:40 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d16810574-Reviews-Marinara_Pizza-New_York_City_New_York.html
+2021-03-16 09:31:57 ERROR    Could not find maximum page. This page may only have one page of reviews
+2021-03-16 09:31:57 ERROR    Message: 
+
+2021-03-16 09:32:00 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d457826-Reviews-Sammy_s_Roumanian_Steakhouse-New_York_City_New_York.html
+2021-03-16 09:32:09 INFO     Found a maximum of 18 pages
+2021-03-16 09:32:56 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 09:33:05 ERROR    Could not find and click next button even without beeing in the last page and waited to load
+2021-03-16 09:33:05 ERROR    Message: element click intercepted: Element <a data-page-number="8" data-offset="70" class="nav next ui_button primary" onclick="widgetEvCall('handlers.paginate', event, this); widgetEvCall('handlers.trackClick', event, this, 'pagination_next', '8');" href="/Restaurant_Review-g60763-d457826-Reviews-or70-Sammy_s_Roumanian_Steakhouse-New_York_City_New_York.html">...</a> is not clickable at point (702, 582). Other element would receive the click: <div id="taplc_hotels_loading_box_rr_resp_0" class="ppr_rup ppr_priv_hotels_loading_box" data-placement-name="hotels_loading_box:rr_resp" style="display: block;">...</div>
+  (Session info: headless chrome=89.0.4389.82)
+
+2021-03-16 09:33:07 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 09:33:16 ERROR    Could not find and click next button even without beeing in the last page and waited to load
+2021-03-16 09:33:16 ERROR    Message: element click intercepted: Element <a data-page-number="8" data-offset="70" class="nav next ui_button primary" onclick="widgetEvCall('handlers.paginate', event, this); widgetEvCall('handlers.trackClick', event, this, 'pagination_next', '8');" href="/Restaurant_Review-g60763-d457826-Reviews-or70-Sammy_s_Roumanian_Steakhouse-New_York_City_New_York.html">...</a> is not clickable at point (702, 582). Other element would receive the click: <div id="taplc_hotels_loading_box_rr_resp_0" class="ppr_rup ppr_priv_hotels_loading_box" data-placement-name="hotels_loading_box:rr_resp" style="display: block;">...</div>
+  (Session info: headless chrome=89.0.4389.82)
+
+2021-03-16 09:33:18 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 09:34:05 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d1150398-Reviews-Frankie_Johnnie_s_Steakhouse-New_York_City_New_York.html
+2021-03-16 09:34:40 INFO     Found a maximum of 28 pages
+2021-03-16 09:37:15 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d4874790-Reviews-Little_Italy_Pizza-New_York_City_New_York.html
+2021-03-16 09:37:54 INFO     Found a maximum of 18 pages
+2021-03-16 09:39:44 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 09:39:46 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d19444824-Reviews-Madison_Street_Pizza-New_York_City_New_York.html
+2021-03-16 09:40:14 ERROR    Could not find maximum page. This page may only have one page of reviews
+2021-03-16 09:40:14 ERROR    Message: 
+
+2021-03-16 09:40:35 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 09:40:37 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d12192135-Reviews-La_Vera_Pizzeria-New_York_City_New_York.html
+2021-03-16 09:40:59 INFO     Found a maximum of 3 pages
+2021-03-16 09:41:15 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d12859054-Reviews-Champion_Pizza-New_York_City_New_York.html
+2021-03-16 09:41:54 ERROR    Could not find maximum page. This page may only have one page of reviews
+2021-03-16 09:41:54 ERROR    Message: 
+
+2021-03-16 09:41:57 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d12945460-Reviews-Tudor_City_Steakhouse-New_York_City_New_York.html
+2021-03-16 09:42:10 INFO     Found a maximum of 3 pages
+2021-03-16 09:42:24 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d15617788-Reviews-Trenta_Tre_Pizzeria-New_York_City_New_York.html
+2021-03-16 09:42:58 ERROR    Could not find maximum page. This page may only have one page of reviews
+2021-03-16 09:42:58 ERROR    Message: 
+
+2021-03-16 09:43:00 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d4813243-Reviews-Dreamer_s_Pizza-New_York_City_New_York.html#REVIEWS
+2021-03-16 09:43:27 ERROR    Could not find maximum page. This page may only have one page of reviews
+2021-03-16 09:43:27 ERROR    Message: 
+
+2021-03-16 09:43:30 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d12815563-Reviews-Marinara_Pizza-New_York_City_New_York.html
+2021-03-16 09:43:52 INFO     Found a maximum of 2 pages
+2021-03-16 09:43:59 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d479377-Reviews-Arturo_s_Pizza-New_York_City_New_York.html 
+2021-03-16 09:44:15 INFO     Found a maximum of 4 pages
+2021-03-16 09:44:33 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d1862364-Reviews-Wolfgang_s_Steakhouse_Midtown_54th_Street-New_York_City_New_York.html
+2021-03-16 09:44:41 INFO     Found a maximum of 26 pages
+2021-03-16 09:47:01 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d425681-Reviews-Sparks_Steak_House-New_York_City_New_York.html
+2021-03-16 09:47:16 INFO     Found a maximum of 116 pages
+2021-03-16 09:58:04 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d10396202-Reviews-Zia_Maria_Chelsea-New_York_City_New_York.html
+2021-03-16 09:58:13 INFO     Found a maximum of 8 pages
+2021-03-16 09:58:58 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d15059043-Reviews-Gina_La_Fornarina-New_York_City_New_York.html
+2021-03-16 09:59:14 ERROR    Could not find maximum page. This page may only have one page of reviews
+2021-03-16 09:59:14 ERROR    Message: 
+
+2021-03-16 09:59:16 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d19270365-Reviews-Pizza_Etalia-New_York_City_New_York.html
+2021-03-16 09:59:34 ERROR    Could not find maximum page. This page may only have one page of reviews
+2021-03-16 09:59:34 ERROR    Message: 
+
+2021-03-16 09:59:37 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d459329-Reviews-Talia_s_Steakhouse_Bar-New_York_City_New_York.html
+2021-03-16 09:59:47 INFO     Found a maximum of 21 pages
+2021-03-16 10:01:47 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d11750492-Reviews-Roberta_s-New_York_City_New_York.html
+2021-03-16 10:01:59 INFO     Found a maximum of 3 pages
+2021-03-16 10:02:16 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d19667404-Reviews-Brooklyn_Pizza_Masters_Llc-New_York_City_New_York.html
+2021-03-16 10:02:33 ERROR    Could not find maximum page. This page may only have one page of reviews
+2021-03-16 10:02:33 ERROR    Message: 
+
+2021-03-16 10:02:54 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 10:02:56 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d478260-Reviews-The_Palm_Palm_West-New_York_City_New_York.html
+2021-03-16 10:03:04 INFO     Found a maximum of 59 pages
+2021-03-16 10:05:20 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 10:08:26 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d4731177-Reviews-King_s_Pizza_of_Harlem-New_York_City_New_York.html
+2021-03-16 10:08:44 ERROR    Could not find maximum page. This page may only have one page of reviews
+2021-03-16 10:08:44 ERROR    Message: 
+
+2021-03-16 10:08:46 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d1594710-Reviews-Pizza_Park_Corporation-New_York_City_New_York.html
+2021-03-16 10:08:54 INFO     Found a maximum of 4 pages
+2021-03-16 10:09:14 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d4660003-Reviews-Taco_Bell-New_York_City_New_York.html
+2021-03-16 10:09:34 ERROR    Could not find maximum page. This page may only have one page of reviews
+2021-03-16 10:09:34 ERROR    Message: 
+
+2021-03-16 10:09:36 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d10155371-Reviews-Speedy_Romeo-New_York_City_New_York.html
+2021-03-16 10:09:45 INFO     Found a maximum of 4 pages
+2021-03-16 10:10:03 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d23038358-Reviews-99_Cent_Village_Pizza-New_York_City_New_York.html
+2021-03-16 10:10:22 ERROR    Could not find maximum page. This page may only have one page of reviews
+2021-03-16 10:10:22 ERROR    Message: 
+
+2021-03-16 10:10:43 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 10:10:45 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d4432818-Reviews-J_s_Pizza-New_York_City_New_York.html
+2021-03-16 10:10:52 INFO     Found a maximum of 2 pages
+2021-03-16 10:11:00 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d3821405-Reviews-Picasso_Pizza-New_York_City_New_York.html
+2021-03-16 10:11:09 INFO     Found a maximum of 5 pages
+2021-03-16 10:11:31 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d4727274-Reviews-Pizza_Pita-New_York_City_New_York.html
+2021-03-16 10:11:49 ERROR    Could not find maximum page. This page may only have one page of reviews
+2021-03-16 10:11:49 ERROR    Message: 
+
+2021-03-16 10:11:52 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d425364-Reviews-Wolfgang_s_Steakhouse-New_York_City_New_York.html
+2021-03-16 10:12:02 INFO     Found a maximum of 73 pages
+2021-03-16 10:18:04 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 10:18:46 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 10:18:58 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d14168917-Reviews-Riossi_Pizza-New_York_City_New_York.html
+2021-03-16 10:19:19 ERROR    Could not find maximum page. This page may only have one page of reviews
+2021-03-16 10:19:19 ERROR    Message: 
+
+2021-03-16 10:19:22 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d2329695-Reviews-Luigi_s_Gourmet_Pizza-New_York_City_New_York.html
+2021-03-16 10:19:29 INFO     Found a maximum of 18 pages
+2021-03-16 10:21:08 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d15168315-Reviews-Jumbo_s_Pizza_Coffee_Shop-New_York_City_New_York.html
+2021-03-16 10:21:28 ERROR    Could not find maximum page. This page may only have one page of reviews
+2021-03-16 10:21:28 ERROR    Message: 
+
+2021-03-16 10:21:48 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 10:21:50 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d21026812-Reviews-Krispy_Krunchy_Chicken-New_York_City_New_York.html
+2021-03-16 10:22:08 ERROR    Could not find maximum page. This page may only have one page of reviews
+2021-03-16 10:22:08 ERROR    Message: 
+
+2021-03-16 10:22:28 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 10:22:31 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d4728394-Reviews-Milano_Pizza_Shop-New_York_City_New_York.html
+2021-03-16 10:22:50 ERROR    Could not find maximum page. This page may only have one page of reviews
+2021-03-16 10:22:50 ERROR    Message: 
+
+2021-03-16 10:22:52 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d21127823-Reviews-99_Cent_Fresh_Pizza-New_York_City_New_York.html
+2021-03-16 10:23:11 ERROR    Could not find maximum page. This page may only have one page of reviews
+2021-03-16 10:23:11 ERROR    Message: 
+
+2021-03-16 10:23:13 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d11799347-Reviews-Wolfgang_s_Steakhouse-New_York_City_New_York.html
+2021-03-16 10:23:22 INFO     Found a maximum of 4 pages
+2021-03-16 10:23:41 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d4461083-Reviews-Latrattoria_Pizza-New_York_City_New_York.html
+2021-03-16 10:23:59 ERROR    Could not find maximum page. This page may only have one page of reviews
+2021-03-16 10:23:59 ERROR    Message: 
+
+2021-03-16 10:24:02 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d16805706-Reviews-Pepper_Lunch-New_York_City_New_York.html
+2021-03-16 10:24:22 ERROR    Could not find maximum page. This page may only have one page of reviews
+2021-03-16 10:24:22 ERROR    Message: 
+
+2021-03-16 10:24:24 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d4417805-Reviews-Domino_s_Pizza-New_York_City_New_York.html
+2021-03-16 10:24:43 ERROR    Could not find maximum page. This page may only have one page of reviews
+2021-03-16 10:24:43 ERROR    Message: 
+
+2021-03-16 10:25:04 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 10:25:06 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d423307-Reviews-Strip_House-New_York_City_New_York.html
+2021-03-16 10:25:14 INFO     Found a maximum of 51 pages
+2021-03-16 10:25:59 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 10:26:02 ERROR    Could not find and click next button even without beeing in the last page and waited to load
+2021-03-16 10:26:02 ERROR    Message: stale element reference: element is not attached to the page document
+  (Session info: headless chrome=89.0.4389.82)
+
+2021-03-16 10:26:05 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 10:30:08 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 10:30:33 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 10:30:37 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d15140731-Reviews-IPizzaNY-New_York_City_New_York.html
+2021-03-16 10:30:56 ERROR    Could not find maximum page. This page may only have one page of reviews
+2021-03-16 10:30:56 ERROR    Message: 
+
+2021-03-16 10:30:58 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d7089644-Reviews-Morton_s_The_Steakhouse-New_York_City_New_York.html
+2021-03-16 10:31:07 INFO     Found a maximum of 18 pages
+2021-03-16 10:32:43 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d5099943-Reviews-Little_Caesars-New_York_City_New_York.html
+2021-03-16 10:33:01 ERROR    Could not find maximum page. This page may only have one page of reviews
+2021-03-16 10:33:01 ERROR    Message: 
+
+2021-03-16 10:33:22 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 10:33:24 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d14153226-Reviews-Bocce_USQ-New_York_City_New_York.html
+2021-03-16 10:33:35 INFO     Found a maximum of 2 pages
+2021-03-16 10:33:42 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d13951507-Reviews-PQR_Roman_Pizzeria-New_York_City_New_York.html
+2021-03-16 10:34:00 ERROR    Could not find maximum page. This page may only have one page of reviews
+2021-03-16 10:34:00 ERROR    Message: 
+
+2021-03-16 10:34:03 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d425631-Reviews-La_Traviata_Pizzeria-New_York_City_New_York.html
+2021-03-16 10:34:10 INFO     Found a maximum of 3 pages
+2021-03-16 10:34:23 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d4277156-Reviews-Gotham_Pizza-New_York_City_New_York.html
+2021-03-16 10:34:42 ERROR    Could not find maximum page. This page may only have one page of reviews
+2021-03-16 10:34:42 ERROR    Message: 
+
+2021-03-16 10:34:45 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d2545991-Reviews-Ovest_Pizzoteca-New_York_City_New_York.html
+2021-03-16 10:34:52 INFO     Found a maximum of 14 pages
+2021-03-16 10:36:07 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d13441221-Reviews-Tuscany_Steakhouse-New_York_City_New_York.html
+2021-03-16 10:36:15 INFO     Found a maximum of 8 pages
+2021-03-16 10:36:55 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d2302311-Reviews-Big_Nick_s_Pizza_Joint-New_York_City_New_York.html
+2021-03-16 10:37:03 INFO     Found a maximum of 14 pages
+2021-03-16 10:38:18 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d14783977-Reviews-Sfila_Pizza-New_York_City_New_York.html
+2021-03-16 10:38:46 ERROR    Could not find maximum page. This page may only have one page of reviews
+2021-03-16 10:38:46 ERROR    Message: 
+
+2021-03-16 10:38:48 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d14920260-Reviews-Simo-New_York_City_New_York.html
+2021-03-16 10:39:06 ERROR    Could not find maximum page. This page may only have one page of reviews
+2021-03-16 10:39:06 ERROR    Message: 
+
+2021-03-16 10:39:09 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d11882563-Reviews-Sofia_Pizza_Shoppe-New_York_City_New_York.html
+2021-03-16 10:39:18 INFO     Found a maximum of 4 pages
+2021-03-16 10:39:34 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d15675033-Reviews-Bar314-New_York_City_New_York.html
+2021-03-16 10:39:51 ERROR    Could not find maximum page. This page may only have one page of reviews
+2021-03-16 10:39:51 ERROR    Message: 
+
+2021-03-16 10:39:54 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d6844693-Reviews-212_Steakhouse-New_York_City_New_York.html
+2021-03-16 10:40:01 INFO     Found a maximum of 18 pages
+2021-03-16 10:41:42 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d8609422-Reviews-Rocco_Steakhouse-New_York_City_New_York.html
+2021-03-16 10:41:51 INFO     Found a maximum of 17 pages
+2021-03-16 10:43:25 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d19266332-Reviews-Mamma_s_Famous_Pizza-New_York_City_New_York.html
+2021-03-16 10:43:44 ERROR    Could not find maximum page. This page may only have one page of reviews
+2021-03-16 10:43:44 ERROR    Message: 
+
+2021-03-16 10:44:04 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 10:44:06 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d15166392-Reviews-Fdr_99c_Slice_Pizza-New_York_City_New_York.html
+2021-03-16 10:44:24 ERROR    Could not find maximum page. This page may only have one page of reviews
+2021-03-16 10:44:24 ERROR    Message: 
+
+2021-03-16 10:44:45 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 10:44:47 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d555118-Reviews-Famous_Famiglia_Pizza-New_York_City_New_York.html
+2021-03-16 10:44:57 INFO     Found a maximum of 8 pages
+2021-03-16 10:45:42 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d5065362-Reviews-Mama_s_Pizza-New_York_City_New_York.html
+2021-03-16 10:45:50 INFO     Found a maximum of 7 pages
+2021-03-16 10:46:24 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d19667382-Reviews-New_Times_Square_Pizza-New_York_City_New_York.html
+2021-03-16 10:46:44 ERROR    Could not find maximum page. This page may only have one page of reviews
+2021-03-16 10:46:44 ERROR    Message: 
+
+2021-03-16 10:47:05 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 10:47:07 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d2462487-Reviews-Solo_Pizza_NYC-New_York_City_New_York.html
+2021-03-16 10:47:17 INFO     Found a maximum of 2 pages
+2021-03-16 10:47:45 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 10:47:47 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d15171260-Reviews-Pepo_s_Pizza-New_York_City_New_York.html
+2021-03-16 10:48:07 ERROR    Could not find maximum page. This page may only have one page of reviews
+2021-03-16 10:48:07 ERROR    Message: 
+
+2021-03-16 10:48:27 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 10:48:29 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d4248073-Reviews-Pizza_Palace-New_York_City_New_York.html
+2021-03-16 10:48:47 ERROR    Could not find maximum page. This page may only have one page of reviews
+2021-03-16 10:48:47 ERROR    Message: 
+
+2021-03-16 10:48:50 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d4797783-Reviews-Pizza_Hut-New_York_City_New_York.html
+2021-03-16 10:49:10 ERROR    Could not find maximum page. This page may only have one page of reviews
+2021-03-16 10:49:10 ERROR    Message: 
+
+2021-03-16 10:49:13 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d12179676-Reviews-Yankee_Pizza-New_York_City_New_York.html
+2021-03-16 10:49:34 ERROR    Could not find maximum page. This page may only have one page of reviews
+2021-03-16 10:49:34 ERROR    Message: 
+
+2021-03-16 10:49:54 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 10:49:56 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d479337-Reviews-Bleecker_Street_Pizza-New_York_City_New_York.html
+2021-03-16 10:50:14 INFO     Found a maximum of 130 pages
+2021-03-16 10:51:18 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 11:00:43 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 11:00:51 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 11:00:54 ERROR    Could not find and click next button even without beeing in the last page and waited to load
+2021-03-16 11:00:54 ERROR    Message: stale element reference: element is not attached to the page document
+  (Session info: headless chrome=89.0.4389.82)
+
+2021-03-16 11:00:57 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 11:01:03 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 11:01:07 ERROR    Could not find and click next button even without beeing in the last page and waited to load
+2021-03-16 11:01:07 ERROR    Message: element click intercepted: Element <a data-page-number="115" data-offset="1140" class="nav next ui_button primary" onclick="widgetEvCall('handlers.paginate', event, this); widgetEvCall('handlers.trackClick', event, this, 'pagination_next', '115');" href="/Restaurant_Review-g60763-d479337-Reviews-or1140-Bleecker_Street_Pizza-New_York_City_New_York.html">...</a> is not clickable at point (702, 582). Other element would receive the click: <div id="taplc_hotels_loading_box_rr_resp_0" class="ppr_rup ppr_priv_hotels_loading_box" data-placement-name="hotels_loading_box:rr_resp" style="display: block;">...</div>
+  (Session info: headless chrome=89.0.4389.82)
+
+2021-03-16 11:01:10 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 11:02:28 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d4464233-Reviews-Clinton_Street_Pizza-New_York_City_New_York.html
+2021-03-16 11:02:46 ERROR    Could not find maximum page. This page may only have one page of reviews
+2021-03-16 11:02:46 ERROR    Message: 
+
+2021-03-16 11:03:07 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 11:03:09 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d4726582-Reviews-La_Mia_Pizza-New_York_City_New_York.html
+2021-03-16 11:03:28 INFO     Found a maximum of 2 pages
+2021-03-16 11:03:35 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d2256299-Reviews-Grandpa_s_Brick_Oven_Pizza-New_York_City_New_York.html
+2021-03-16 11:03:42 INFO     Found a maximum of 2 pages
+2021-03-16 11:04:07 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 11:04:09 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d4916292-Reviews-Mama_Tina_s_Pizza-New_York_City_New_York.html
+2021-03-16 11:04:29 ERROR    Could not find maximum page. This page may only have one page of reviews
+2021-03-16 11:04:29 ERROR    Message: 
+
+2021-03-16 11:04:50 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 11:04:52 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d15850772-Reviews-Koronet_Pizza-New_York_City_New_York.html
+2021-03-16 11:05:10 ERROR    Could not find maximum page. This page may only have one page of reviews
+2021-03-16 11:05:10 ERROR    Message: 
+
+2021-03-16 11:05:13 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d7079166-Reviews-Cheesy_Pizza-New_York_City_New_York.html
+2021-03-16 11:05:20 INFO     Found a maximum of 2 pages
+2021-03-16 11:05:28 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d19667433-Reviews-8_Slices_Pizza-New_York_City_New_York.html
+2021-03-16 11:05:47 ERROR    Could not find maximum page. This page may only have one page of reviews
+2021-03-16 11:05:47 ERROR    Message: 
+
+2021-03-16 11:06:07 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 11:06:09 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d19664925-Reviews-MJ_s_Pizza_Wings-New_York_City_New_York.html
+2021-03-16 11:06:27 ERROR    Could not find maximum page. This page may only have one page of reviews
+2021-03-16 11:06:27 ERROR    Message: 
+
+2021-03-16 11:06:48 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 11:06:50 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d10165896-Reviews-SottoCasa_Pizzeria-New_York_City_New_York.html
+2021-03-16 11:06:59 INFO     Found a maximum of 24 pages
+2021-03-16 11:09:07 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d4328701-Reviews-Proto_s_Pizza-New_York_City_New_York.html
+2021-03-16 11:09:16 INFO     Found a maximum of 3 pages
+2021-03-16 11:09:29 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d424417-Reviews-Majestic_Pizza-New_York_City_New_York.html
+2021-03-16 11:09:42 INFO     Found a maximum of 12 pages
+2021-03-16 11:10:37 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 11:10:46 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d19270577-Reviews-Vito_s_Slices_Ices-New_York_City_New_York.html
+2021-03-16 11:11:07 ERROR    Could not find maximum page. This page may only have one page of reviews
+2021-03-16 11:11:07 ERROR    Message: 
+
+2021-03-16 11:11:10 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d1582879-Reviews-East_Village_Pizza-New_York_City_New_York.html
+2021-03-16 11:11:20 INFO     Found a maximum of 4 pages
+2021-03-16 11:11:38 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d15162685-Reviews-99_Cent_s_Famous_Pizza-New_York_City_New_York.html
+2021-03-16 11:12:00 ERROR    Could not find maximum page. This page may only have one page of reviews
+2021-03-16 11:12:00 ERROR    Message: 
+
+2021-03-16 11:12:21 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 11:12:23 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d1036547-Reviews-99_Cent_Fresh_Pizza-New_York_City_New_York.html
+2021-03-16 11:12:41 INFO     Found a maximum of 22 pages
+2021-03-16 11:14:38 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d12542582-Reviews-Pizza_NoMad-New_York_City_New_York.html
+2021-03-16 11:14:53 INFO     Found a maximum of 3 pages
+2021-03-16 11:15:06 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d17422892-Reviews-Steak_N_Lobster-New_York_City_New_York.html
+2021-03-16 11:15:17 INFO     Found a maximum of 2 pages
+2021-03-16 11:15:26 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d916605-Reviews-Waldy_s_Wood_Fired_Pizza_Penne-New_York_City_New_York.html
+2021-03-16 11:15:39 INFO     Found a maximum of 27 pages
+2021-03-16 11:18:02 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d8743404-Reviews-Justino_s_Pizzeria-New_York_City_New_York.html
+2021-03-16 11:18:22 INFO     Found a maximum of 5 pages
+2021-03-16 11:18:46 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d4479344-Reviews-B_Side-New_York_City_New_York.html
+2021-03-16 11:19:14 INFO     Found a maximum of 2 pages
+2021-03-16 11:19:23 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60827-d4711782-Reviews-Bene_Restaurant_Pizzeria-Brooklyn_New_York.html
+2021-03-16 11:19:44 ERROR    Could not find maximum page. This page may only have one page of reviews
+2021-03-16 11:19:44 ERROR    Message: 
+
+2021-03-16 11:20:05 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 11:20:07 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d19266163-Reviews-Enzo_Bruni-New_York_City_New_York.html
+2021-03-16 11:20:27 ERROR    Could not find maximum page. This page may only have one page of reviews
+2021-03-16 11:20:27 ERROR    Message: 
+
+2021-03-16 11:20:47 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 11:20:49 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d2513438-Reviews-STK_Midtown-New_York_City_New_York.html
+2021-03-16 11:21:00 INFO     Found a maximum of 68 pages
+2021-03-16 11:22:03 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 11:22:07 ERROR    Could not find and click next button even without beeing in the last page and waited to load
+2021-03-16 11:22:07 ERROR    Message: stale element reference: element is not attached to the page document
+  (Session info: headless chrome=89.0.4389.82)
+
+2021-03-16 11:22:10 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 11:22:49 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 11:24:55 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 11:25:31 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 11:27:16 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d3635904-Reviews-Little_Italy_Pizzeria_Deli-New_York_City_New_York.html
+2021-03-16 11:27:28 INFO     Found a maximum of 2 pages
+2021-03-16 11:27:37 INFO     Reached end of all pages
+https://www.tripadvisor.com/Restaurant_Review-g60763-d21590987-Reviews-Villa_Fresh_Italian_Kitchen-New_York_City_New_York.html
+2021-03-16 11:27:59 ERROR    Could not find maximum page. This page may only have one page of reviews
+2021-03-16 11:27:59 ERROR    Message: 
+
+2021-03-16 11:28:20 INFO     Could not find 'more' button in order to expand reviews
+2021-03-16 11:28:22 INFO     Reached end of all pages
