@@ -22,19 +22,27 @@ PATH = "/usr/bin/chromedriver"
 
 class RestaurantReviewsScraper(object):
 
-    def __init__(self, url, csv_writer, restaurant, driver_opts=None, debug=False, max_num_retries=3):
+    def __init__(self, url, filepath, restaurant, driver_opts=None, debug=False, max_num_retries=3):
         """
         Creates a RestaurantReviewsScraper object
 
         :param url: str, url to scrape
-        :param csv_writer: csv.writer object
+        :param filepath: str, path for saving the csv with data
         :param restaurant: str, restaurant name
         :param driver_opts: chrome.options.Options object
         :param debug: bool, whether to print or not
         :param max_num_retries: int, maximum number of retries to the url
         """
+        # If new file or empty, write headers
+        headers = ["restaurant_name", "date", "rating", "title", "review",
+                   "num_likes", "url", "num_page", "total_pages"]
+        file_append_mode = open(filepath, 'a', encoding="utf-8")
+        self.csv_writer = csv.writer(file_append_mode, delimiter="\t")
+        file_read_mode = open(filepath, 'r', encoding="utf-8")
+        if not os.path.exists(filepath) or len(file_read_mode.readlines()) == 0:
+            self.csv_writer.writerow(headers)
+
         self.finished = False
-        self.csv_writer = csv_writer
         self.debug = debug
         self.restaurant_name = restaurant
         self.url = url
@@ -106,13 +114,18 @@ class RestaurantReviewsScraper(object):
             except:
                 review = rev_container.find_element_by_xpath(
                     ".//p[@class='partial_entry']").text.replace("\n", " ")
-
         except Exception as e:
             review = None
             self.logger.error("Could not get review")
             self.logger.error(e)
 
-        return [date, rating, title, review]
+        # LIKES
+        num_likes = 0
+        likes = rev_container.find_element_by_class_name("numHelp")
+        if likes is not None and likes.text != "":
+            num_likes = int(likes.text.strip())
+
+        return [date, rating, title, review, num_likes]
 
     def _wait_reviews_loading(self, container):
         # Check that all 10 reviews are loaded if we are not in the last page
@@ -158,11 +171,11 @@ class RestaurantReviewsScraper(object):
 
         # Get the fields for each review in review container
         for j in range(len(container)):
-            date, rating, title, review = self._get_fields(container[j])
+            date, rating, title, review, num_likes = self._get_fields(container[j])
             if self.debug:
-                print([self.restaurant_name, date, rating, title, review])
+                print([self.restaurant_name, date, rating, title, review, num_likes])
             self.csv_writer.writerow([self.restaurant_name, date, rating,
-                                      title, review, self.url, str(self.num_curr_page)])
+                                      title, review, num_likes, self.url, str(self.num_curr_page)])
 
     def _click_next_page(self):
         if self.num_curr_page < self.num_last_page:
@@ -185,7 +198,7 @@ class RestaurantReviewsScraper(object):
             self.logger.info("Reached end of all pages")
             self.finished = True
 
-    def scrape_url(self):
+    def scrape(self):
         # Begin trial to scrape
         while not self.finished and self.num_retries < self.max_num_retries:
             try:
@@ -206,7 +219,7 @@ class RestaurantReviewsScraper(object):
                     self.num_last_page = 1
 
                 # change the value inside the range to save more or less reviews
-                while self.num_curr_page <= self.num_last_page:
+                while not self.finished and self.num_curr_page <= self.num_last_page:
                     self._read_page()
                     self._click_next_page()
 
@@ -243,16 +256,15 @@ def run():
         driver_opts = {"options": opts}
 
         restaurant_name = row["NYC_extract.DBA"]
-        scraper = RestaurantReviewsScraper(url, csvWriter, restaurant_name, driver_opts)
-        scraper.scrape_url()
+#        scraper = RestaurantReviewsScraper(url, csvWriter, restaurant_name, driver_opts)
+#        scraper.scrape()
 
 
 def test():
     url = "https://www.tripadvisor.com/Restaurant_Review-g60763-d477302-Reviews-Umberto_s_Clam_House-New_York_City_New_York.html"
-    file = open("../datasets/test.csv", 'a', encoding="utf-8")
-    csv_writer = csv.writer(file, delimiter="\t")
-    scraper = RestaurantReviewsScraper(url, csv_writer, "test", debug=True)
-    scraper.scrape_url()
+    filepath = "../datasets/test.csv"
+    scraper = RestaurantReviewsScraper(url, filepath, "test")
+    scraper.scrape()
 
 
 if __name__ == "__main__":
