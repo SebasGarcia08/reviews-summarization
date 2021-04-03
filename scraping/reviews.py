@@ -47,6 +47,8 @@ class RestaurantReviewsScraper(object):
         self.restaurant_name = restaurant
         self.url = url
         self.max_num_retries = max_num_retries
+        self.driver_opts = driver_opts
+        self.driver = None
 
         self.reviews_div = None
         self.num_last_page = None
@@ -63,11 +65,6 @@ class RestaurantReviewsScraper(object):
 
         self.logger = logging.getLogger(__name__)
         self.logger.setLevel(logging.INFO)
-
-        if driver_opts is not None:
-            self.driver = webdriver.Chrome(PATH, **driver_opts)
-        else:
-            self.driver = webdriver.Chrome(PATH)
 
     @staticmethod
     def expand_reviews(locator, base_element):
@@ -97,7 +94,7 @@ class RestaurantReviewsScraper(object):
         if date is not None:
             try:
                 date = date.get_attribute("title")
-            except Exception as e:
+            except Exception:
                 self.logger.error("Could not load date")
                 self.logger.error(format_exc())
 
@@ -105,6 +102,7 @@ class RestaurantReviewsScraper(object):
         rating = self._get_field(rev_container, ".//span[contains(@class, 'ui_bubble_rating bubble_')]", "rating")
         if rating is not None:
             rating = rating.get_attribute("class").split("_")[3]
+            rating = rating[0]  # Get a single digit
 
         # REVIEW
         try:
@@ -114,7 +112,7 @@ class RestaurantReviewsScraper(object):
             except:
                 review = rev_container.find_element_by_xpath(
                     ".//p[@class='partial_entry']").text.replace("\n", " ")
-        except Exception as e:
+        except Exception:
             review = None
             self.logger.error("Could not get review")
             self.logger.error(format_exc())
@@ -138,7 +136,7 @@ class RestaurantReviewsScraper(object):
                 try:
                     container = self.driver.find_elements_by_xpath(
                         ".//div[@class='review-container']")
-                except Exception as e:
+                except Exception:
                     self.logger.log(
                         f"Could not load container with 10 reviews, retrying {num_tries} of {max_num_tries}")
                     self.logger.error(format_exc())
@@ -152,7 +150,7 @@ class RestaurantReviewsScraper(object):
         try:
             self.expand_reviews(expand_locator,
                                 base_element=self.reviews_div)
-        except Exception as e:
+        except Exception:
             try:
                 self.expand_reviews(expand_locator,
                                     base_element=self.reviews_div)
@@ -174,8 +172,8 @@ class RestaurantReviewsScraper(object):
             date, rating, title, review, num_likes = self._get_fields(container[j])
             if self.debug:
                 print([self.restaurant_name, date, rating, title, review, num_likes])
-            self.csv_writer.writerow([self.restaurant_name, date, rating,
-                                      title, review, num_likes, self.url, str(self.num_curr_page)])
+            self.csv_writer.writerow([self.restaurant_name, date, rating, title, review, num_likes,
+                                      self.url, str(self.num_curr_page), self.num_last_page])
 
     def _click_next_page(self):
         if self.num_curr_page < self.num_last_page:
@@ -189,7 +187,7 @@ class RestaurantReviewsScraper(object):
                 # Advance page counter
                 self.num_curr_page += 1
 
-            except Exception as e:
+            except Exception:
                 self.logger.error(
                     "Could not find and click next button even without "
                     "being in the last page and waited to load")
@@ -202,6 +200,12 @@ class RestaurantReviewsScraper(object):
         # Begin trial to scrape
         while not self.finished and self.num_retries < self.max_num_retries:
             try:
+
+                if self.driver_opts is not None:
+                    self.driver = webdriver.Chrome(PATH, **self.driver_opts)
+                else:
+                    self.driver = webdriver.Chrome(PATH)
+
                 self.driver.get(self.url)
                 self.reviews_div = WebDriverWait(self.driver, timeout=10).until(
                     EC.presence_of_element_located((By.ID, "REVIEWS"))
@@ -212,7 +216,7 @@ class RestaurantReviewsScraper(object):
                     )
                     self.num_last_page = int(num_pages_el.text)
                     self.logger.info(f"Found a maximum of {self.num_last_page} pages")
-                except Exception as e:
+                except Exception:
                     self.logger.error(
                         "Could not find maximum page. This page may only have one page of reviews")
                     self.logger.error(format_exc())
@@ -223,14 +227,14 @@ class RestaurantReviewsScraper(object):
                     self._read_page()
                     self._click_next_page()
 
-            except TimeoutException as e:
+            except TimeoutException:
                 self.logger.error(
                     f"Could not load this page, retrying... {self.num_retries + 1} of {self.max_num_retries}")
                 self.logger.error(format_exc())
                 self.num_retries += 1
+                self.driver.close()
                 time.sleep(random.randint(1, 60))
 
-            self.driver.close()
             time.sleep(random.randint(1, 3))
 
 
