@@ -3,7 +3,7 @@ import csv
 import time
 import random
 import logging
-import traceback
+from traceback import format_exc
 import os
 
 from selenium.webdriver.support.ui import WebDriverWait
@@ -82,7 +82,7 @@ class RestaurantReviewsScraper(object):
             field = jth_container.find_element_by_xpath(xpath)
         except Exception as e:
             self.logger.error(f"Could not get {element_name}")
-            self.logger.error(e)
+            self.logger.error(format_exc())
             field = None
         return field
 
@@ -99,7 +99,7 @@ class RestaurantReviewsScraper(object):
                 date = date.get_attribute("title")
             except Exception as e:
                 self.logger.error("Could not load date")
-                self.logger.error(e)
+                self.logger.error(format_exc())
 
         # RATING
         rating = self._get_field(rev_container, ".//span[contains(@class, 'ui_bubble_rating bubble_')]", "rating")
@@ -117,7 +117,7 @@ class RestaurantReviewsScraper(object):
         except Exception as e:
             review = None
             self.logger.error("Could not get review")
-            self.logger.error(e)
+            self.logger.error(format_exc())
 
         # LIKES
         num_likes = 0
@@ -141,7 +141,7 @@ class RestaurantReviewsScraper(object):
                 except Exception as e:
                     self.logger.log(
                         f"Could not load container with 10 reviews, retrying {num_tries} of {max_num_tries}")
-                    self.logger.log(e)
+                    self.logger.error(format_exc())
                     pass
                 num_tries += 1
 
@@ -193,7 +193,7 @@ class RestaurantReviewsScraper(object):
                 self.logger.error(
                     "Could not find and click next button even without "
                     "being in the last page and waited to load")
-                self.logger.error(e)
+                self.logger.error(format_exc())
         else:
             self.logger.info("Reached end of all pages")
             self.finished = True
@@ -215,7 +215,7 @@ class RestaurantReviewsScraper(object):
                 except Exception as e:
                     self.logger.error(
                         "Could not find maximum page. This page may only have one page of reviews")
-                    self.logger.error(e)
+                    self.logger.error(format_exc())
                     self.num_last_page = 1
 
                 # change the value inside the range to save more or less reviews
@@ -226,7 +226,7 @@ class RestaurantReviewsScraper(object):
             except TimeoutException as e:
                 self.logger.error(
                     f"Could not load this page, retrying... {self.num_retries + 1} of {self.max_num_retries}")
-                self.logger.error(e)
+                self.logger.error(format_exc())
                 self.num_retries += 1
                 time.sleep(random.randint(1, 60))
 
