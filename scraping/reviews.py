@@ -162,9 +162,9 @@ class RestaurantReviewsScraper(object):
             if self.debug:
                 print([self.restaurant_name, date, rating, title, review])
             self.csv_writer.writerow([self.restaurant_name, date, rating,
-                                      title, review, self.url, str(i + 1)])
+                                      title, review, self.url, str(self.num_curr_page)])
 
-    def _advance_page(self):
+    def _click_next_page(self):
         if self.num_curr_page < self.num_last_page:
             # Change the page
             try:
@@ -208,7 +208,7 @@ class RestaurantReviewsScraper(object):
                 # change the value inside the range to save more or less reviews
                 while self.num_curr_page <= self.num_last_page:
                     self._read_page()
-                    self._advance_page()
+                    self._click_next_page()
 
             except TimeoutException as e:
                 self.logger.error(
@@ -221,7 +221,7 @@ class RestaurantReviewsScraper(object):
             time.sleep(random.randint(1, 3))
 
 
-if __name__ == "__main__":
+def run():
     # default path to file to store data
     path_to_file = "../datasets/scraped_final_list_URL_TripAdvisor.csv"
     df = pd.read_csv(path_to_file, sep=";")
@@ -240,10 +240,20 @@ if __name__ == "__main__":
         opts.add_argument('--no-sandbox')
         opts.add_argument('--headless')
         opts.add_argument('--disable-dev-shm-usage')
-        driver_args = {"options": opts}
+        driver_opts = {"options": opts}
 
-        scraper = RestaurantReviewsScraper(driver_opts=driver_args, csv_writer=csvWriter,
-                                           restaurant=row["NYC_extract.DBA"], debug=False,
-                                           url=url)
+        restaurant_name = row["NYC_extract.DBA"]
+        scraper = RestaurantReviewsScraper(url, csvWriter, restaurant_name, driver_opts)
+        scraper.scrape_url()
 
-#       scraper.scrape_url(url, csvWriter, , debug=False)
+
+def test():
+    url = "https://www.tripadvisor.com/Restaurant_Review-g60763-d477302-Reviews-Umberto_s_Clam_House-New_York_City_New_York.html"
+    file = open("../datasets/test.csv", 'a', encoding="utf-8")
+    csv_writer = csv.writer(file, delimiter="\t")
+    scraper = RestaurantReviewsScraper(url, csv_writer, "test", debug=True)
+    scraper.scrape_url()
+
+
+if __name__ == "__main__":
+    test()
